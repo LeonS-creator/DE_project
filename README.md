@@ -15,9 +15,9 @@ This project aims to preprocess a dataset of Reddit posts to train a machine lea
 
 ## Repository Structure
 
-/data/ # Raw and processed datasets (not included in GitHub) 
-/notebooks/ # Jupyter notebooks for exploration 
-/src/ # Python scripts for preprocessing and training 
-/models/ # Saved trained models 
-/config/ # Config files (e.g., preprocessing parameters) 
-/docs/ # Documentation and reports
+- /data/          -->   Raw and processed datasets (not included in GitHub) 
+- /notebooks/     -->   Jupyter notebooks for exploration 
+- /src/           -->   Python scripts for preprocessing and training 
+- /models/        -->   Saved trained models 
+- /config/        -->   Config files (e.g., preprocessing parameters) 
+- /docs/          -->   Documentation and reports
