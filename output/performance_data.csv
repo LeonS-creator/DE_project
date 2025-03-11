@@ -1,0 +1,2 @@
+,File,File size,Executor cores,Executor memory,Max cores,Data load time,Training time,Evaluation time,Overall exec time,Model accuracy
+0,reddit_50k,0.3651625029742718,2,2g,2,12.638629961013795,61.947443628311156,4.800484609603882,79.74301481246948,0.5005320280910832
